@@ -92,19 +92,30 @@ Atualmente o projeto possui seis tabelas na camada `DEV_RAW`.
 ## 📁 Estrutura do Projeto
 
 bike_store/
+│
 ├── dbt_project.yml
+│
 ├── models/
 │   ├── staging/
 │   │   ├── crm/
 │   │   └── erp/
+│   │
 │   ├── intermediate/
+│   │
 │   └── marts/
+│
 ├── macros/
+│
 ├── tests/
+│
 ├── seeds/
+│
 ├── snapshots/
+│
 ├── analyses/
+│
 └── README.md
+
 
 ## 🔄 Fluxo de Desenvolvimento
 
