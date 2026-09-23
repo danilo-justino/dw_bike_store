@@ -1,4 +1,4 @@
-```
+
 # Bike Store Data Platform
 
 Projeto de engenharia e transformação de dados da **Bike Store**, desenvolvido utilizando **Snowflake** e **dbt Core**.
@@ -227,4 +227,4 @@ Projeto desenvolvido para prática e aplicação de conceitos de:
 - ELT
 - Data Quality
 - Version Control
-```
+
