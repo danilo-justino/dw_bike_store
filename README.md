@@ -91,6 +91,7 @@ Atualmente o projeto possui seis tabelas na camada `DEV_RAW`.
 
 ## 📁 Estrutura do Projeto
 
+```text
 bike_store/
 │
 ├── dbt_project.yml
@@ -115,12 +116,12 @@ bike_store/
 ├── analyses/
 │
 └── README.md
-
+```
 
 ## 🔄 Fluxo de Desenvolvimento
 
 O desenvolvimento segue um fluxo baseado em branches e Pull Requests.
-
+```text
 main
  │
  ├── feature/raw-sources
@@ -134,6 +135,7 @@ main
  ├── feature/marts
  │
  └── feature/tests-documentation
+```
 
 Cada nova etapa deve ser desenvolvida em uma branch própria e posteriormente integrada à `main` através de um Pull Request.
 
